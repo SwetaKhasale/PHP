@@ -1,5 +1,5 @@
 <?php
-$x = 78;
+$x = 77;
 $y = 66;
 
 function myTest() {
