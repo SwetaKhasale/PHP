@@ -1,6 +1,6 @@
 <?php
 $x = 5;
-$y = 10;
+$y = 50;
 
 function myTest() {
     global $x, $y;
